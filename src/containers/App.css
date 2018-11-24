@@ -13,6 +13,3 @@ h1 {
 	text-align: center;
 }
 
-Scroll {
-	::-webkit-scrollbar {display: none;}
-}

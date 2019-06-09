@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "robo-friends-dev-20190609120143-authRole",
+            "UnauthRoleArn": "arn:aws:iam::523404080564:role/robo-friends-dev-20190609120143-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::523404080564:role/robo-friends-dev-20190609120143-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "robo-friends-dev-20190609120143-deployment",
+            "UnauthRoleName": "robo-friends-dev-20190609120143-unauthRole",
+            "StackName": "robo-friends-dev-20190609120143",
+            "StackId": "arn:aws:cloudformation:eu-west-1:523404080564:stack/robo-friends-dev-20190609120143/f7528c90-8aa5-11e9-8c26-0224bbdd2424"
+        }
+    }
+}

@@ -4,6 +4,10 @@
   "private": true,
   "homepage": "https://cebarnsley.github.io/robo-friends",
   "dependencies": {
+    "acorn": "^6.1.1",
+    "ajv": "^6.10.0",
+    "aws-amplify": "^1.1.28",
+    "aws-amplify-react": "^2.3.8",
     "gh-pages": "^2.0.1",
     "handlebars": "^4.1.2",
     "js-yaml": "^3.13.1",
@@ -20,6 +24,8 @@
     "redux-thunk": "^2.3.0",
     "tachyons": "^4.11.1",
     "url-parse": "^1.4.7",
+    "webpack": "^3.11.0",
+    "webpack-dev-middleware": "^3.7.0",
     "webpack-dev-server": "^3.6.0"
   },
   "scripts": {

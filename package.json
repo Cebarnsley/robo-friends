@@ -5,7 +5,7 @@
   "homepage": "https://cebarnsley.github.io/robo-friends",
   "dependencies": {
     "acorn": "^6.1.1",
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "gh-pages": "^2.0.1",
     "handlebars": "^4.1.2",
     "js-yaml": "^3.13.1",

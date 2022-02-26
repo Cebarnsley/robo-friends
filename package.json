@@ -21,7 +21,7 @@
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
     "tachyons": "^4.11.1",
-    "url-parse": "^1.4.7",
+    "url-parse": "^1.5.8",
     "webpack": "^3.11.0",
     "webpack-dev-middleware": "^3.7.0",
     "webpack-dev-server": "^3.6.0"
